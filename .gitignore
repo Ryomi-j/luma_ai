@@ -1,0 +1,23 @@
+# 운영체제 파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정
+.idea/
+.vscode/
+
+# 환경 설정
+.env
+
+# 의존성 디렉토리
+node_modules/
+venv/
+
+# 빌드 및 캐시
+dist/
+build/
+__pycache__/
+*.pyc
+
+# 로그
+*.log
